@@ -8,6 +8,6 @@ public class JhooqDockerDemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Argocd demo...! cheers Jagadeesh";
+        return "Argocd demonstration completed...! cheers Jagadeesh";
     }
 }
